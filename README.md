@@ -3,11 +3,11 @@
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
-**My Features**:
-
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+**Bot Features**:
 
 👉 Upload as file from any HTTP link
+
+
 
 ### Installation
 
@@ -15,9 +15,9 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-URL-Uploader/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Westhofer/TGURLuploader-Bot/tree/master)
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
+**Watch a tutorial Video to create your own Bot(credits:Infotel)** - 👉 https://youtu.be/QkAkSLBgoYw
 
 #### The Hard Way
 
@@ -29,11 +29,12 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-## Our Telegram Channel and Group
+## Old Version Alert!,Queries:-
+* [@jginn](https://telegram.dog/jginn)
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+
+
+
 
 ## Credits, and Thanks to
 
@@ -41,7 +42,7 @@ python bot.py
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
-- For FeedBack and Suggestions, please feel free to say in [InFoTel Group](https://telegram.dog/InFoTelGroup)
+- For FeedBack and Suggestions, please feel free to contact [westhofer](https://telegram.dog/Westhofer)
 
 #### LICENSE
 - GPLv3
